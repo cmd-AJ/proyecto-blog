@@ -1,0 +1,31 @@
+docker build -t mysql_blogjo .
+
+tag name 
+
+el punto es para buscar dentro de esa carpeta
+Solo tienes la imagen pero no esta corriendo
+
+
+Para levantar 
+docker run 
+
+
+docker run --name mysql_container -d -p 33068:3306 mysql_blogjo
+Esto es para correr un container.
+--name nombre que le quierdo dar 
+-dar
+-p puerto 
+publico y luego privado
+
+
+password = 8b188630ad0d6cd684f0ce457ee223819d9bf6c7b9c430feda1cce33e638e6c3
+
+
+Descargar mysql
+
+Ahora puerto 
+localhost 33068
+
+usuario
+mysql_blogjo
+

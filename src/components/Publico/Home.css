@@ -1,0 +1,14 @@
+.imagencarro{
+    width: 100vw;
+    height: 35vh;
+    opacity: 0.40;
+    background-image: url("https://i.ytimg.com/vi/gAcSYTuzst0/maxresdefault.jpg");
+}
+
+.titulo{
+
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    color: #EDF2F4;
+}

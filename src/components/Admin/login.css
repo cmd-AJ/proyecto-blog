@@ -1,0 +1,22 @@
+.loginform{
+    text-align: center;
+    height: 4vh;
+
+}
+
+.background{
+    width: auto;
+    height: 60vh;
+    margin-top: 3%;
+    padding: 1%;
+    animation-name: example;
+    animation-duration: 4s;
+    background-size: cover;
+    background-color: #2B2D42;
+}
+
+@keyframes example {
+    from { opacity: 1%;  background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2bzdxNWdwNGhud2NwdTF3bTBqM2d2NGJoNjFhd3ZtMHNrOTFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cHQq0zhPxDavu/giphy.gif');}
+    to {background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWoxOGlxMWlhNHphNnJkOHY3OGIwcTd6d29sNTZxMjFxY3duNjhhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWDdZ9Wy86JC8/giphy.gif');}
+  }
+  

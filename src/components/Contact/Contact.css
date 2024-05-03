@@ -1,0 +1,8 @@
+.contactus{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.flexi{
+    display: flex;
+}

@@ -1,0 +1,84 @@
+.main-pp{
+    background-color: #EDF2F4;
+    color: #2B2D42;
+    padding: 2%;
+    
+}
+
+.mainfoto{
+    
+    background-color: #D80032;
+    margin: 2%;
+    width: 28vw;
+    height: 28vh;
+    background-size: cover;
+    
+
+}
+
+.wholes{
+    display: flex;
+    flex: 0 0 33.33%;
+    flex-wrap: wrap;
+    
+}
+
+
+.backtext{
+    background-color: #00000093;
+    padding: 5%;
+
+}
+
+
+
+
+.acentrars{
+    
+    margin-left: 40%;
+    margin-bottom: 2%;
+    margin-top: 2%;    
+}
+
+
+.inputs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.disinp{
+    width: 50vw;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+
+.clasi{
+    display: flex;
+    flex-direction: column;
+}
+
+.clasiinput{
+    display: flex;
+    flex-direction: column;
+    width: 54vw;
+    
+}
+
+.backtext{
+    word-wrap: break-word;
+    font-size: 1.5vh;
+    
+}
+
+
+.agregarbutton{
+    width: 20vw;
+    height: 3vh;
+
+
+}
+
+
+.submitbutton{
+    margin: 3%;
+}

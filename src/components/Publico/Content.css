@@ -1,0 +1,36 @@
+.estructuraC{
+    background-color: rgb(142, 151, 151);
+    width: 28%;
+    min-height: 30vh;
+    max-height: 50vh;
+    margin: 2.5%;
+    
+}
+
+
+.backfoto{
+    height: 100%;
+    max-height: 100%;
+    width: 100%;
+    background-size: cover;
+    border-radius: 2%;
+}
+
+.nombret{
+    background-color: #ef233ba9;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    word-wrap: break-word;
+}
+
+.anima{
+    padding: 1%;
+    animation-name: shadows;
+    animation-duration: 6s;
+}
+
+@keyframes shadows {
+    from {box-shadow: -100px -12px 27px 26px rgba(204, 50, 50, 0.2);}
+    to {box-shadow: 100px -12px 27px 26px rgba(45, 201, 55, 0.2);}
+  }
